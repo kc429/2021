@@ -81,7 +81,7 @@ We expect most submissions to be around 4 pages in length. If your submission wi
 
 ## Organizing Committee and Contact
 
-For questions, please contact [kc429@cam.ac.uk](kc429@cam.ac.uk)
+For questions, please contact [ellis-admin@eng.cam.ac.uk](ellis-admin@eng.cam.ac.uk)
 
 - Cheng Zhang
 - Yingzhen Li
